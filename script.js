@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const terminalText = document.getElementById("terminal-text");
 
   const text =
-    "Exploring the digital realm through code, design, and innovation. Welcome to my cybernetic portfolio.";
+    "print ("Welcome to my profile!") .";
 
   let index = 0;
 
@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
   matrixCanvas.height = window.innerHeight;
 
   const characters =
-    "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン0123456789";
+    "KALIBYSSアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲン0123456789";
 
   const fontSize = 16;
 
