@@ -1,0 +1,40 @@
+
+.about-card h3 {
+
+  font-size: 24px;
+
+  margin-bottom: 20px;
+
+  color: var(--text-primary);
+
+}
+
+.about-text p {
+
+  color: var(--text-secondary);
+
+  margin-bottom: 15px;
+
+}
+
+/* Skills */
+
+.skills-container {
+
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 20px;
+
+}
+
+.skill-item {
+
+  width: 100%;
+
+}
+
+.skill-info {
+
+  display: flex;
