@@ -1222,12 +1222,19 @@ a {
 
 .hero-content {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  gap: 10px;
+  justify-content: center;
+  gap: 20px;
 }
 
 .discord-banner {
-  max-width: 100%;
+  max-width: 200px;
   height: auto;
 }
+
+.hero-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
